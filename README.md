@@ -1,6 +1,6 @@
-# Instagram-Analytics-for-Tech-Influencer
+# 📊 Instagram-Analytics-for-Tech-Influencer
 
-# 📊 Instagram Analytics for Tech Influencers
+
 
 **Objective:** Analyze engagement patterns, content performance, and audience growth trends across multiple post formats to identify impactful content strategies.
 
